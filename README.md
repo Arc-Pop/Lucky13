@@ -5,3 +5,6 @@ Written for the Tiva C microcontroller using C, FreeRTOS,
 and Code Composer Studio with the Tiva Peripheral Driver Library.
 
 Developed by Jonathan Arc, David Benavidas, and Bodehousse Houndekon.
+
+Demo video:
+https://www.youtube.com/watch?v=VcefpS8tsvg
